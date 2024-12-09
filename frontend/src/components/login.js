@@ -1,0 +1,1 @@
+ login.css signup.js signup.css forgot_pswd.js forgot_pswd.css add_new_patient.js add_new_patient.css patient_history.js patient_history.css nav_bar.js navbar.css new_priscription.js new_priscription.css
